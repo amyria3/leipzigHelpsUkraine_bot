@@ -9,8 +9,8 @@ const de = {
   housingDesc: "Biete/Suche Unterkünfte",
   translations: "Übersetzungen",
   translationsDesc: "Finde ÜbersetzerInnen",
-  visitThisChannel: "Bitte melde dich in diesem Telegram-Channel:",
-  welcomeMsg: "Bitte wähle eine Kategorie für dein Anliegen",
+  visitThisChannel: "Bitte hier entlang:",
+  welcomeMsg: "Hey! Wir versuchen, Hilfsanfragen und Angebote zu koordinieren. Bitte wähle ein Thema.",
 };
 const en = {
   transport: "Transport",
@@ -23,8 +23,8 @@ const en = {
   housingDesc: "offer/search for housing",
   translations: "Translations",
   translationsDesc: "get help from translators",
-  visitThisChannel: "Please join the following telegram channel:",
-  welcomeMsg: "Please choose a category for your request"
+  visitThisChannel: "This way please:",
+  welcomeMsg: "Hey! We are trying to coordinate offers of help and requests. Please shoose a topic."
 };
 const uk = {
   transport: "транспорт",
@@ -39,7 +39,7 @@ const uk = {
   translationsDesc: "знайти перекладачів",
   visitThisChannel: "будь-ласка, звертайся до цього телеграм каналу:",
   welcomeMsg: "будь-ласка, вибери категорію, що тебе цікавить"
-}
+};
 
 // available translations
 const translations = {
